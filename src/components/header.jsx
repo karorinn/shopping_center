@@ -6,7 +6,7 @@ function Header(){
                     <a href="!#" className="logo"><h4>ShoppingCenter</h4>
                     </a>
                     <ul id="nav-mobile" className="right hide-on-med-and-down">
-                        <li><a href="!#">Repository</a></li>
+                        <li><a href="https://github.com/karorinn/shopping_center">Repository</a></li>
                     </ul>
                 </div>
             </div>
