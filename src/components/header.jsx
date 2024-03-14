@@ -1,0 +1,16 @@
+function Header(){
+    return (
+        <nav className="page-header pink garken-3">
+            <div className="container">
+                <div className="naw-wrapper">
+                    <a href="!#" className="logo"><h4>ShoppingCenter</h4>
+                    </a>
+                    <ul id="nav-mobile" className="right hide-on-med-and-down">
+                        <li><a href="!#">Repository</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    );
+}
+export{Header};
