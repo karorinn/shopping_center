@@ -83,10 +83,6 @@ code {
   color: rgb(215, 13, 104);
   font-size: 20px;
 }
-h4{
-  margin-top: 0;
-  padding-top: 10px;
-}
 
 #toast-container {
   top: 3rem !important;
