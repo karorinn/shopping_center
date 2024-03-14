@@ -44,17 +44,6 @@ code {
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 1rem;
 }
-/*.collection{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  background-color: #fff;
-  width: 50rem;
-  max-width: 95%;
-  animation: show 500ms ease-in-out;
-  min-height: 50%;
-}*/
 .basket-list {
   z-index: 99999;
   position: fixed;
@@ -96,7 +85,6 @@ code {
 }
 h4{
   margin-top: 0;
-  text-align: center;
   padding-top: 10px;
 }
 
